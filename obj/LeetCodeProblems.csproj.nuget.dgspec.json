@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\LeetCodeProblems\\LeetCodeProblems.csproj": {}
+    "D:\\LeetCodeProblems\\LeetCodeProblems.csproj": {}
   },
   "projects": {
-    "d:\\LeetCodeProblems\\LeetCodeProblems.csproj": {
+    "D:\\LeetCodeProblems\\LeetCodeProblems.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\LeetCodeProblems\\LeetCodeProblems.csproj",
+        "projectUniqueName": "D:\\LeetCodeProblems\\LeetCodeProblems.csproj",
         "projectName": "LeetCodeProblems",
-        "projectPath": "d:\\LeetCodeProblems\\LeetCodeProblems.csproj",
+        "projectPath": "D:\\LeetCodeProblems\\LeetCodeProblems.csproj",
         "packagesPath": "C:\\Users\\santhoshkumar.s_disp\\.nuget\\packages\\",
-        "outputPath": "d:\\LeetCodeProblems\\obj\\",
+        "outputPath": "D:\\LeetCodeProblems\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\santhoshkumar.s_disp\\AppData\\Roaming\\NuGet\\NuGet.Config"
